@@ -10,13 +10,13 @@ This repository showcases a Flutter application that implements CRUD (Create, Re
 - **CRUD Functionality**: Examples demonstrating how to perform CRUD operations on the database.
 - **User Interface**: A clean and intuitive UI for seamless user interaction.
 - **Data Validation**: Techniques for input validation to maintain data integrity.
-- 
+ 
 ## Technologies Used
 
 - **Flutter**: The framework for building cross-platform mobile applications.
 - **Dart**: The programming language used for app logic.
 - **SQLite**: The lightweight database engine for local data storage.
-- 
+  
 ## Conclusion
 
 This project is an excellent resource for learning how to work with SQLite in Flutter, providing foundational skills for managing persistent data in mobile applications. Feel free to explore the code and contribute!
